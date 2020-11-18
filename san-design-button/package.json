@@ -11,7 +11,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
-    "san-design-button": "file:../san-design-button-0.1.0.tgz",
+    "san-design-button": "file:..",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
